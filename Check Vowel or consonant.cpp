@@ -1,7 +1,6 @@
 #include<ctype.h>
 #include<stdio.h>
 int main()
-
 {
 	char c;
 	int lowercase_vowel, uppercase_vowel;
